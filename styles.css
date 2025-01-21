@@ -4,8 +4,9 @@ body{
 .header{
 	background-color: #011e29;
 	color: white;
+	padding: 5px;
 	text-align: center;
-	padding: 15px;
+    margin-bottom: 12px;
 }
 #container{
 	width: 100%;
