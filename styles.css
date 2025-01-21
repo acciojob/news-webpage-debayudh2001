@@ -38,6 +38,7 @@ body{
 	border-radius: 10px;
 }
 .pictorial-news-section{
+	text-align: center;
 	width: 25%;
 	background-color: white;
 	padding: 15px;
@@ -52,7 +53,4 @@ body{
 		width: 80%;
 		object-fit: cover;
 	}
-}
-h3{
-	text-align: center;
 }
