@@ -52,4 +52,7 @@ body{
 		width: 80%;
 		object-fit: cover;
 	}
+	h3{
+		text-align: center;
+	}
 }
